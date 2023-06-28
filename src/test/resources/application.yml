@@ -17,4 +17,4 @@ spring:
 # org.hibernate.type: trace
 
   profiles:
-    active: local
+    active: test
